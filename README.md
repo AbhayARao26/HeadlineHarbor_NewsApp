@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/681a26e9-18ce-4fc8-bd54-506743822c7a
 ## Features
 - Fetches latest news from various categories.
 - Clean and responsive UI.
-- Supports dark mode.
+- Multiple sources and categorization of News available
 
 ## Tech Stack
 - **Flutter & Dart** – For app development.
