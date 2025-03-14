@@ -1,4 +1,4 @@
-# My_Flutter_News_App
+# HeadlineHarbor_NewsApp
 
 A simple **Flutter** app that fetches real-time news using the **News API**.
 
